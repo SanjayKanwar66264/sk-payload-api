@@ -1,7 +1,7 @@
 {
-  "name": "coding-challenge",
+  "name": "PayloadAPI",
   "version": "1.0.0",
-  "description": "Channel9 Coding challenge",
+  "description": "Payload API",
   "main": "index.js",
   "scripts": {
     "start": "babel-node index.js",
